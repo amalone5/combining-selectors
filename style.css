@@ -11,3 +11,7 @@ h1, h2 {
 .box li {
     color: blue;
 }
+
+.box li.done {
+    color: seagreen;
+}
